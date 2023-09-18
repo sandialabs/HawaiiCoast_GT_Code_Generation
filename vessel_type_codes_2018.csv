@@ -1,0 +1,282 @@
+﻿vessel_group_2018,vessel_type_2018,AIS_vessel_code,AIS_ship_and_cargo_classification,ship_classes_for_classification
+Other,54,54,Anti-pollution equipment,Anti-pollution equipment
+Cargo,70,70,"Cargo, all ships of this type",Cargo
+Cargo,71,71,"Cargo, hazardous category A",Cargo
+Cargo,72,72,"Cargo, hazardous category B",Cargo
+Cargo,73,73,"Cargo, hazardous category C",Cargo
+Cargo,74,74,"Cargo, hazardous category D",Cargo
+Cargo,75,75,"Cargo, reserved for future use",Cargo
+Cargo,76,76,"Cargo, reserved for future use",Cargo
+Cargo,77,77,"Cargo, reserved for future use",Cargo
+Cargo,78,78,"Cargo, reserved for future use",Cargo
+Cargo,79,79,"Cargo, no additional information",Cargo
+Cargo,1003,1003,Freight Barge,Cargo
+Cargo,1004,1004,Freight Ship,Cargo
+Cargo,1016,1016,Public Freight,Cargo
+Other,34,34,Diving operations,Diving
+Other,33,33,Dredging or underwater operations,Dredging
+Fishing,30,30,Fishing,Fishing
+Fishing,1001,1001,Commercial Fishing Vessel,Fishing
+Fishing,1002,1002,Fish Processing Vessel,Fishing
+Other,40,40,"High speed craft (HSC), all ships of this type",High speed craft
+Other,41,41,"High speed craft (HSC), hazardous category A",High speed craft
+Other,42,42,"High speed craft (HSC), hazardous category B",High speed craft
+Other,43,43,"High speed craft (HSC), hazardous category C",High speed craft
+Other,44,44,"High speed craft (HSC), hazardous category D",High speed craft
+Other,45,45,"High speed craft (HSC), reserved for future use",High speed craft
+Other,46,46,"High speed craft (HSC), reserved for future use",High speed craft
+Other,47,47,"High speed craft (HSC), reserved for future use",High speed craft
+Other,48,48,"High speed craft (HSC), reserved for future use",High speed craft
+Other,49,49,"High speed craft (HSC), reserved for future use",High speed craft
+Other,1005,1005,Industrial Vessel,Industrial Vessel
+Other,55,55,Law enforcement,Law enforcement
+Other,58,58,Medical Transport,Medical Transport
+Military,35,35,Military operations,Military
+Military,1021,1021,SAR Aircraft,Military
+Other,1007,1007,Mobile Offshore Drilling Unit,Mobile Offshore Drilling Unit
+Other,1008,1008,Non-vessel,Non-vessel
+Other,1009,1009,NON-VESSEL,Non-vessel
+Not Available,0,0,"Not available or no ship, default",nan
+Other,1010,1010,Offshore Supply Vessel,Offshore supply vessel
+Other,1011,1011,Oil Recovery,Oil Recovery
+Other,1,1,Reserved for future use,Other
+Other,2,2,Reserved for future use,Other
+Other,3,3,Reserved for future use,Other
+Other,4,4,Reserved for future use,Other
+Other,5,5,Reserved for future use,Other
+Other,6,6,Reserved for future use,Other
+Other,7,7,Reserved for future use,Other
+Other,8,8,Reserved for future use,Other
+Other,9,9,Reserved for future use,Other
+Other,10,10,Reserved for future use,Other
+Other,11,11,Reserved for future use,Other
+Other,12,12,Reserved for future use,Other
+Other,13,13,Reserved for future use,Other
+Other,14,14,Reserved for future use,Other
+Other,15,15,Reserved for future use,Other
+Other,16,16,Reserved for future use,Other
+Other,17,17,Reserved for future use,Other
+Other,18,18,Reserved for future use,Other
+Other,19,19,Reserved for future use,Other
+Other,38,38,Reserved,Other
+Other,39,39,Reserved,Other
+Other,56,56,Spare - for assignment to local vessel,Other
+Other,57,57,Spare - for assignment to local vessel,Other
+Other,59,59,Ship according to RR Resolution No. 18,Other
+Other,90,90,"Other Type, all ships of this type",Other
+Other,91,91,"Other Type, hazardous category A",Other
+Other,92,92,"Other Type, hazardous category B",Other
+Other,93,93,"Other Type, hazardous category C",Other
+Other,94,94,"Other Type, hazardous category D",Other
+Other,95,95,"Other Type, reserved for future use",Other
+Other,96,96,"Other Type, reserved for future use",Other
+Other,97,97,"Other Type, reserved for future use",Other
+Other,98,98,"Other Type, reserved for future use",Other
+Other,99,99,"Other Type, no additional information",Other
+Other,100,100,Reserved for regional use,Other
+Other,101,101,Reserved for regional use,Other
+Other,102,102,Reserved for regional use,Other
+Other,103,103,Reserved for regional use,Other
+Other,104,104,Reserved for regional use,Other
+Other,105,105,Reserved for regional use,Other
+Other,106,106,Reserved for regional use,Other
+Other,107,107,Reserved for regional use,Other
+Other,108,108,Reserved for regional use,Other
+Other,109,109,Reserved for regional use,Other
+Other,110,110,Reserved for regional use,Other
+Other,111,111,Reserved for regional use,Other
+Other,112,112,Reserved for regional use,Other
+Other,113,113,Reserved for regional use,Other
+Other,114,114,Reserved for regional use,Other
+Other,115,115,Reserved for regional use,Other
+Other,116,116,Reserved for regional use,Other
+Other,117,117,Reserved for regional use,Other
+Other,118,118,Reserved for regional use,Other
+Other,119,119,Reserved for regional use,Other
+Other,120,120,Reserved for regional use,Other
+Other,121,121,Reserved for regional use,Other
+Other,122,122,Reserved for regional use,Other
+Other,123,123,Reserved for regional use,Other
+Other,124,124,Reserved for regional use,Other
+Other,125,125,Reserved for regional use,Other
+Other,126,126,Reserved for regional use,Other
+Other,127,127,Reserved for regional use,Other
+Other,128,128,Reserved for regional use,Other
+Other,129,129,Reserved for regional use,Other
+Other,130,130,Reserved for regional use,Other
+Other,131,131,Reserved for regional use,Other
+Other,132,132,Reserved for regional use,Other
+Other,133,133,Reserved for regional use,Other
+Other,134,134,Reserved for regional use,Other
+Other,135,135,Reserved for regional use,Other
+Other,136,136,Reserved for regional use,Other
+Other,137,137,Reserved for regional use,Other
+Other,138,138,Reserved for regional use,Other
+Other,139,139,Reserved for regional use,Other
+Other,140,140,Reserved for regional use,Other
+Other,141,141,Reserved for regional use,Other
+Other,142,142,Reserved for regional use,Other
+Other,143,143,Reserved for regional use,Other
+Other,144,144,Reserved for regional use,Other
+Other,145,145,Reserved for regional use,Other
+Other,146,146,Reserved for regional use,Other
+Other,147,147,Reserved for regional use,Other
+Other,148,148,Reserved for regional use,Other
+Other,149,149,Reserved for regional use,Other
+Other,150,150,Reserved for regional use,Other
+Other,151,151,Reserved for regional use,Other
+Other,152,152,Reserved for regional use,Other
+Other,153,153,Reserved for regional use,Other
+Other,154,154,Reserved for regional use,Other
+Other,155,155,Reserved for regional use,Other
+Other,156,156,Reserved for regional use,Other
+Other,157,157,Reserved for regional use,Other
+Other,158,158,Reserved for regional use,Other
+Other,159,159,Reserved for regional use,Other
+Other,160,160,Reserved for regional use,Other
+Other,161,161,Reserved for regional use,Other
+Other,162,162,Reserved for regional use,Other
+Other,163,163,Reserved for regional use,Other
+Other,164,164,Reserved for regional use,Other
+Other,165,165,Reserved for regional use,Other
+Other,166,166,Reserved for regional use,Other
+Other,167,167,Reserved for regional use,Other
+Other,168,168,Reserved for regional use,Other
+Other,169,169,Reserved for regional use,Other
+Other,170,170,Reserved for regional use,Other
+Other,171,171,Reserved for regional use,Other
+Other,172,172,Reserved for regional use,Other
+Other,173,173,Reserved for regional use,Other
+Other,174,174,Reserved for regional use,Other
+Other,175,175,Reserved for regional use,Other
+Other,176,176,Reserved for regional use,Other
+Other,177,177,Reserved for regional use,Other
+Other,178,178,Reserved for regional use,Other
+Other,179,179,Reserved for regional use,Other
+Other,180,180,Reserved for regional use,Other
+Other,181,181,Reserved for regional use,Other
+Other,182,182,Reserved for regional use,Other
+Other,183,183,Reserved for regional use,Other
+Other,184,184,Reserved for regional use,Other
+Other,185,185,Reserved for regional use,Other
+Other,186,186,Reserved for regional use,Other
+Other,187,187,Reserved for regional use,Other
+Other,188,188,Reserved for regional use,Other
+Other,189,189,Reserved for regional use,Other
+Other,190,190,Reserved for regional use,Other
+Other,191,191,Reserved for regional use,Other
+Other,192,192,Reserved for regional use,Other
+Other,193,193,Reserved for regional use,Other
+Other,194,194,Reserved for regional use,Other
+Other,195,195,Reserved for regional use,Other
+Other,196,196,Reserved for regional use,Other
+Other,197,197,Reserved for regional use,Other
+Other,198,198,Reserved for regional use,Other
+Other,199,199,Reserved for regional use,Other
+Other,200,200,Reserved for future use,Other
+Other,201,201,Reserved for future use,Other
+Other,202,202,Reserved for future use,Other
+Other,203,203,Reserved for future use,Other
+Other,204,204,Reserved for future use,Other
+Other,205,205,Reserved for future use,Other
+Other,206,206,Reserved for future use,Other
+Other,207,207,Reserved for future use,Other
+Other,208,208,Reserved for future use,Other
+Other,209,209,Reserved for future use,Other
+Other,210,210,Reserved for future use,Other
+Other,211,211,Reserved for future use,Other
+Other,212,212,Reserved for future use,Other
+Other,213,213,Reserved for future use,Other
+Other,214,214,Reserved for future use,Other
+Other,215,215,Reserved for future use,Other
+Other,216,216,Reserved for future use,Other
+Other,217,217,Reserved for future use,Other
+Other,218,218,Reserved for future use,Other
+Other,219,219,Reserved for future use,Other
+Other,220,220,Reserved for future use,Other
+Other,221,221,Reserved for future use,Other
+Other,222,222,Reserved for future use,Other
+Other,223,223,Reserved for future use,Other
+Other,224,224,Reserved for future use,Other
+Other,225,225,Reserved for future use,Other
+Other,226,226,Reserved for future use,Other
+Other,227,227,Reserved for future use,Other
+Other,228,228,Reserved for future use,Other
+Other,229,229,Reserved for future use,Other
+Other,230,230,Reserved for future use,Other
+Other,231,231,Reserved for future use,Other
+Other,232,232,Reserved for future use,Other
+Other,233,233,Reserved for future use,Other
+Other,234,234,Reserved for future use,Other
+Other,235,235,Reserved for future use,Other
+Other,236,236,Reserved for future use,Other
+Other,237,237,Reserved for future use,Other
+Other,238,238,Reserved for future use,Other
+Other,239,239,Reserved for future use,Other
+Other,240,240,Reserved for future use,Other
+Other,241,241,Reserved for future use,Other
+Other,242,242,Reserved for future use,Other
+Other,243,243,Reserved for future use,Other
+Other,244,244,Reserved for future use,Other
+Other,245,245,Reserved for future use,Other
+Other,246,246,Reserved for future use,Other
+Other,247,247,Reserved for future use,Other
+Other,248,248,Reserved for future use,Other
+Other,249,249,Reserved for future use,Other
+Other,250,250,Reserved for future use,Other
+Other,251,251,Reserved for future use,Other
+Other,252,252,Reserved for future use,Other
+Other,253,253,Reserved for future use,Other
+Other,254,254,Reserved for future use,Other
+Other,255,255,Reserved for future use,Other
+Other,1006,1006,Miscellaneous Vessel,Other
+Passenger,60,60,"Passenger, all ships of this type",Passenger
+Passenger,61,61,"Passenger, hazardous category A",Passenger
+Passenger,62,62,"Passenger, hazardous category B",Passenger
+Passenger,63,63,"Passenger, hazardous category C",Passenger
+Passenger,64,64,"Passenger, hazardous category D",Passenger
+Passenger,65,65,"Passenger, reserved for future use",Passenger
+Passenger,66,66,"Passenger, reserved for future use",Passenger
+Passenger,67,67,"Passenger, reserved for future use",Passenger
+Passenger,68,68,"Passenger, reserved for future use",Passenger
+Passenger,69,69,"Passenger, no additional information",Passenger
+Passenger,1012,1012,Passenger (Inspected),Passenger
+Passenger,1013,1013,Passenger (Uninspected),Passenger
+Passenger,1014,1014,Passenger Barge (Inspected),Passenger
+Passenger,1015,1015,Passenger Barge (Uninspected),Passenger
+Other,50,50,Pilot vessel,Pilot vessel
+Pleasure Craft/Sailing,36,36,Sailing,Pleasure Craft/Sailing
+Pleasure Craft/Sailing,37,37,Pleasure Craft,Pleasure Craft/Sailing
+Pleasure Craft/Sailing,1019,1019,Recreational,Pleasure Craft/Sailing
+Other,53,53,Port tender,Port tender
+Other,1018,1018,"Public Vessel, Unclassified","Public Vessel, Unclassified"
+Other,1020,1020,Research Vessel,Research Vessel
+Other,1022,1022,School Ship,School Ship
+Other,51,51,Search and Rescue Vessel,Search and Rescue Vessel
+Tanker,80,80,"Tanker, all ships of this type",Tanker
+Tanker,81,81,"Tanker, hazardous category A",Tanker
+Tanker,82,82,"Tanker, hazardous category B",Tanker
+Tanker,83,83,"Tanker, hazardous category C",Tanker
+Tanker,84,84,"Tanker, hazardous category D",Tanker
+Tanker,85,85,"Tanker, reserved for future use",Tanker
+Tanker,86,86,"Tanker, reserved for future use",Tanker
+Tanker,87,87,"Tanker, reserved for future use",Tanker
+Tanker,88,88,"Tanker, reserved for future use",Tanker
+Tanker,89,89,"Tanker, no additional information",Tanker
+Tanker,1017,1017,Public Tankship/Barge,Tanker
+Tanker,1024,1024,Tank Ship,Tanker
+Tug Tow,21,21,"Wing in ground (WIG), hazardous category A",Tug Tow
+Tug Tow,22,22,"Wing in ground (WIG), hazardous category B",Tug Tow
+Tug Tow,31,31,Towing,Tug Tow
+Tug Tow,32,32,Towing: length exceeds 200m or breadth exceeds 25 m,Tug Tow
+Tug Tow,52,52,Tug,Tug Tow
+Tug Tow,1023,1023,Tank Barge,Tug Tow
+Tug Tow,1025,1025,Towing Vessel,Tug Tow
+Other,20,20,"Wing in ground (WIG), all ships of this type",Wing in ground
+Other,23,23,"Wing in ground (WIG), hazardous category C",Wing in ground
+Other,24,24,"Wing in ground (WIG), hazardous category D",Wing in ground
+Other,25,25,"Wing in ground (WIG), reserved for future use",Wing in ground
+Other,26,26,"Wing in ground (WIG), reserved for future use",Wing in ground
+Other,27,27,"Wing in ground (WIG), reserved for future use",Wing in ground
+Other,28,28,"Wing in ground (WIG), reserved for future use",Wing in ground
+Other,29,29,"Wing in ground (WIG), reserved for future use",Wing in ground
